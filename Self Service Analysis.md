@@ -13,7 +13,7 @@
 
 ## **What I learned from READme**
 ```
-I learned from thereadme file,how to use features in md file.
+I learned from the readme file,how to use features in md file.
 I also learned how to make attractive readme file.
 ```
 ------------
